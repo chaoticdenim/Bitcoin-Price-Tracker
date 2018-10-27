@@ -1,4 +1,4 @@
-package com.londonappbrewery.bitcointicker;
+package com.guillaumebrizolier.bitcointicker;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemSelectedListener;
-import android.widget.Toast;
 
 
 import com.loopj.android.http.AsyncHttpClient;

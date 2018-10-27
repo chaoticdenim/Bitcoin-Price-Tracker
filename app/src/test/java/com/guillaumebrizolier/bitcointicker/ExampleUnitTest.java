@@ -1,4 +1,4 @@
-package com.londonappbrewery.bitcointicker;
+package com.guillaumebrizolier.bitcointicker;
 
 import org.junit.Test;
 
